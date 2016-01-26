@@ -1,4 +1,6 @@
 # Prokka: rapid prokaryotic genome annotation  
+# This version of prokka was downloaded from https://github.com/tseemann/prokka
+# Pull request #37 by lguy, 8799308446c87e149ac0734dd757de9abc222d2b
 
 Torsten Seemann <torsten.seemann@monash.edu>  
 Victorian Bioinformatics Consortium, AUSTRALIA <http://vicbioinformatics.com>
